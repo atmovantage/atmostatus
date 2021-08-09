@@ -5,18 +5,25 @@ repo: atmostatus # The name of this repository
 sites:
   - name: AtmoLive01 Server
     url: $ATMOLIVE01
+    icon: https://platform.cloudways.com/assets/img/favicon-v1.ico
   - name: AtmoLive02 Server
     url: $ATMOLIVE02
+    icon: https://platform.cloudways.com/assets/img/favicon-v1.ico
   - name: AtmoLive03 Server
     url: $ATMOLIVE03
+    icon: https://platform.cloudways.com/assets/img/favicon-v1.ico
   - name: AtmoLive04 Server
     url: $ATMOLIVE04
+    icon: https://platform.cloudways.com/assets/img/favicon-v1.ico
   - name: AtmoVantage Homepage
     url: https://atmovantage.com
+    icon: https://atmovantage.com/wp-content/uploads/2019/02/Color-logo-no-background-small.png
   - name: AtmoVantage Support
-    url: https://support.atmovantage.com/portal/en/home 
+    url: https://support.atmovantage.com/portal/en/home
+    icon: https://atmovantage.com/wp-content/uploads/2019/02/Color-logo-no-background-small.png
   - name: AtmoVantage Client Portal
-    url: https://checkout.atmovantage.com/portal/atmovantage/login    
+    url: https://checkout.atmovantage.com/portal/atmovantage/login
+    icon: https://atmovantage.com/wp-content/uploads/2019/02/Color-logo-no-background-small.png
     
     
 
@@ -32,6 +39,8 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: Support
+      href: https://support.atmovantage.com/portal/en/home     
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
