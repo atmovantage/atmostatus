@@ -6,19 +6,19 @@ sites:
   - name: AtmoLive01 Server
     url: $ATMOLIVE01
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloudways_site_logo.png
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive02 Server
     url: $ATMOLIVE02
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloudways_site_logo.png
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive03 Server
     url: $ATMOLIVE03
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloudways_site_logo.png
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive04 Server
     url: $ATMOLIVE04
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloudways_site_logo.png
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoVantage Homepage
     url: https://atmovantage.com
     maxResponseTime: 6000
