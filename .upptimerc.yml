@@ -19,7 +19,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://atmovantage.com/wp-content/uploads/2019/04/Color-logo-Name-horizontal-small.png
   name: AtmoStatus
-  introTitle: "**AtmoStatus** is the uptime monitor and status page for AtmoVantage"
+  introTitle: "**AtmoStatus** is the uptime monitor and status page for AtmoVantage."
   introMessage: 
   navbar:
     - title: Status
