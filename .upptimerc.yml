@@ -46,12 +46,12 @@ status-website:
   introTitle: "**AtmoStatus** is the uptime monitor and status page for AtmoVantage."
   introMessage: "Uptime is checked every 5 minutes"
   navbar:
-    - title: Status
-      href: /
+    - title: return to Homepage
+      href: https://atmovantage.com
     - title: Support
       href: https://support.atmovantage.com/portal/en/home     
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Contact
+      href: https://atmovantage.com/contact/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
