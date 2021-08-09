@@ -6,31 +6,31 @@ sites:
   - name: AtmoLive01 Server
     url: $ATMOLIVE01
     maxResponseTime: 6000
-    icon: https://platform.cloudways.com/assets/img/favicon-v1.ico
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloudways_site_logo.png
   - name: AtmoLive02 Server
     url: $ATMOLIVE02
     maxResponseTime: 6000
-    icon: https://platform.cloudways.com/assets/img/favicon-v1.ico
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloudways_site_logo.png
   - name: AtmoLive03 Server
     url: $ATMOLIVE03
     maxResponseTime: 6000
-    icon: https://platform.cloudways.com/assets/img/favicon-v1.ico
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloudways_site_logo.png
   - name: AtmoLive04 Server
     url: $ATMOLIVE04
     maxResponseTime: 6000
-    icon: https://platform.cloudways.com/assets/img/favicon-v1.ico
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloudways_site_logo.png
   - name: AtmoVantage Homepage
     url: https://atmovantage.com
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2019/02/Color-logo-no-background-small.png
+    icon: hhttps://atmovantage.com/wp-content/uploads/2019/03/Faded-logo-no-background-small.png
   - name: AtmoVantage Support
     url: https://support.atmovantage.com/portal/en/home
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2019/02/Color-logo-no-background-small.png
+    icon: https://atmovantage.com/wp-content/uploads/2019/03/Faded-logo-no-background-small.png
   - name: AtmoVantage Client Portal
     url: https://checkout.atmovantage.com/portal/atmovantage/login
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2019/02/Color-logo-no-background-small.png
+    icon: https://atmovantage.com/wp-content/uploads/2019/03/Faded-logo-no-background-small.png
     
     
 
