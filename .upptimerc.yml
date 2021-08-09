@@ -8,11 +8,17 @@ sites:
   - name: AtmoLive02 Server
     url: wordpress-107984-475025.cloudwaysapps.com
   - name: AtmoLive03 Server
-    url: wordpress-362557-1267593.cloudwaysapps.com
+    url: wordpress-362557-1809699.cloudwaysapps.com
   - name: AtmoLive04 Server
-    url: wordpress-384076-1206822.cloudwaysapps.com
+    url: libertarianhub.com
   - name: AtmoVantage Homepage
     url: https://atmovantage.com
+  - name: AtmoVantage Support
+    url: https://support.atmovantage.com/portal/en/home 
+  - name: AtmoVantage Client Portal
+    url: https://checkout.atmovantage.com/portal/atmovantage/login    
+    
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
