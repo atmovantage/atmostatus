@@ -5,12 +5,14 @@ repo: atmostatus # The name of this repository
 sites:
   - name: AtmoLive01 Server
     url: wordpress-100937-287704.cloudwaysapps.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: AtmoLive02 Server
+    url: wordpress-107984-475025.cloudwaysapps.com
+  - name: AtmoLive03 Server
+    url: wordpress-362557-1267593.cloudwaysapps.com
+  - name: AtmoLive04 Server
+    url: wordpress-384076-1206822.cloudwaysapps.com
+  - name: AtmoVantage Homepage
+    url: https://atmovantage.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
