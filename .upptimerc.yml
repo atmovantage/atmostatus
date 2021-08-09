@@ -22,15 +22,15 @@ sites:
   - name: AtmoVantage Homepage
     url: https://atmovantage.com
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/Faded-logo-no-background-2.png
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/white-icon.png
   - name: AtmoVantage Support
     url: https://support.atmovantage.com/portal/en/home
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/Faded-logo-no-background-2.png
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/white-icon.png
   - name: AtmoVantage Client Portal
     url: https://checkout.atmovantage.com/portal/atmovantage/login
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/Faded-logo-no-background-2.png
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/white-icon.png
     
     
 
