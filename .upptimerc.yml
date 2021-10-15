@@ -22,6 +22,12 @@ sites:
   - name: AtmoLive05 Server
     url: $ATMOLIVE05
     maxResponseTime: 6000
+  - name: AtmoLive06 Server
+    url: $ATMOLIVE06
+    maxResponseTime: 6000
+  - name: AtmoLive07 Server
+    url: $ATMOLIVE07
+    maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoVantage Homepage
     url: https://atmovantage.com
