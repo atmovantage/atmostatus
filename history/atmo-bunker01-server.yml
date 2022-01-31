@@ -1,7 +1,7 @@
 url: $ATMOBUNKER01
-status: up
+status: degraded
 code: 200
-responseTime: 880
-lastUpdated: 2022-01-30T23:09:41.918Z
+responseTime: 10565
+lastUpdated: 2022-01-31T02:42:29.725Z
 startTime: Wed Jan 26 2022 19:48:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
