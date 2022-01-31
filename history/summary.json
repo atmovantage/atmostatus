@@ -146,18 +146,20 @@
     "url": "$ATMOBUNKER01",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/01/bunker.png",
     "slug": "atmo-bunker01-server",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 994,
-    "timeDay": 880,
-    "timeWeek": 994,
-    "timeMonth": 994,
-    "timeYear": 994,
-    "dailyMinutesDown": {}
+    "time": 2362,
+    "timeDay": 5723,
+    "timeWeek": 2362,
+    "timeMonth": 2362,
+    "timeYear": 2362,
+    "dailyMinutesDown": {
+      "2022-01-31": 0
+    }
   },
   {
     "name": "AtmoVantage Homepage",
