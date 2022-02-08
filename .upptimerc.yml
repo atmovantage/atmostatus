@@ -47,6 +47,10 @@ sites:
     url: https://checkout.atmovantage.com/portal/atmovantage/login
     maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/atmovantage_logo-cloud-white.png
+  - name: AtmoVantage Appointment Booking
+    url: https://booking.atmovantage.com/#/customer/schedule
+    maxResponseTime: 6000
+    icon: https://atmovantage.com/wp-content/uploads/2021/08/atmovantage_logo-cloud-white.png
   - name: Dont Tread On My Site Services
     url: $DONT_TREAD_ON_MY_SITE
     maxResponseTime: 6000
