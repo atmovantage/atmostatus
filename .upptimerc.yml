@@ -38,19 +38,19 @@ sites:
   - name: AtmoVantage Homepage
     url: https://atmovantage.com
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/atmovantage_logo-cloud-white.png
+    icon: https://atmovantage.com/wp-content/uploads/2022/02/favicon.png
   - name: AtmoVantage Support
     url: https://support.atmovantage.com/portal/en/home
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/atmovantage_logo-cloud-white.png
+    icon: https://atmovantage.com/wp-content/uploads/2022/02/favicon.png
   - name: AtmoVantage Client Portal
     url: https://checkout.atmovantage.com/portal/atmovantage/login
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/atmovantage_logo-cloud-white.png
+    icon: https://atmovantage.com/wp-content/uploads/2022/02/favicon.png
   - name: AtmoVantage Appointment Booking
     url: https://booking.atmovantage.com/#/customer/schedule
     maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/atmovantage_logo-cloud-white.png
+    icon: https://atmovantage.com/wp-content/uploads/2022/02/favicon.png
   - name: Dont Tread On My Site Services
     url: $DONT_TREAD_ON_MY_SITE
     maxResponseTime: 6000
