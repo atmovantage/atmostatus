@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 1690,
     "timeDay": 1890,
-    "timeWeek": 1237,
+    "timeWeek": 1310,
     "timeMonth": 1435,
     "timeYear": 1690,
     "dailyMinutesDown": {
@@ -33,7 +33,7 @@
     "uptimeYear": "99.99%",
     "time": 403,
     "timeDay": 314,
-    "timeWeek": 251,
+    "timeWeek": 236,
     "timeMonth": 213,
     "timeYear": 403,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.97%",
     "time": 3167,
     "timeDay": 3098,
-    "timeWeek": 2225,
+    "timeWeek": 2207,
     "timeMonth": 2501,
     "timeYear": 3167,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
     "uptimeYear": "100.00%",
     "time": 352,
     "timeDay": 276,
-    "timeWeek": 475,
+    "timeWeek": 524,
     "timeMonth": 321,
     "timeYear": 352,
     "dailyMinutesDown": {}
@@ -94,7 +94,7 @@
     "uptimeYear": "100.00%",
     "time": 336,
     "timeDay": 333,
-    "timeWeek": 266,
+    "timeWeek": 272,
     "timeMonth": 273,
     "timeYear": 336,
     "dailyMinutesDown": {}
@@ -107,12 +107,12 @@
     "status": "up",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.92%",
     "time": 3733,
     "timeDay": 1046,
-    "timeWeek": 3407,
+    "timeWeek": 1041,
     "timeMonth": 3983,
     "timeYear": 3733,
     "dailyMinutesDown": {
@@ -139,7 +139,7 @@
     "uptimeYear": "100.00%",
     "time": 277,
     "timeDay": 309,
-    "timeWeek": 281,
+    "timeWeek": 272,
     "timeMonth": 257,
     "timeYear": 277,
     "dailyMinutesDown": {}
@@ -149,18 +149,20 @@
     "url": "$ATMOBUNKER01",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/01/bunker.png",
     "slug": "atmo-bunker01-server",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2292,
-    "timeDay": 1292,
-    "timeWeek": 1477,
-    "timeMonth": 2292,
-    "timeYear": 2292,
-    "dailyMinutesDown": {}
+    "time": 2727,
+    "timeDay": 8309,
+    "timeWeek": 3264,
+    "timeMonth": 2727,
+    "timeYear": 2727,
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   },
   {
     "name": "AtmoVantage Homepage",
@@ -175,7 +177,7 @@
     "uptimeYear": "100.00%",
     "time": 2634,
     "timeDay": 1728,
-    "timeWeek": 1798,
+    "timeWeek": 1755,
     "timeMonth": 1856,
     "timeYear": 2634,
     "dailyMinutesDown": {}
@@ -193,7 +195,7 @@
     "uptimeYear": "100.00%",
     "time": 472,
     "timeDay": 205,
-    "timeWeek": 400,
+    "timeWeek": 404,
     "timeMonth": 409,
     "timeYear": 472,
     "dailyMinutesDown": {}
@@ -211,7 +213,7 @@
     "uptimeYear": "99.99%",
     "time": 397,
     "timeDay": 255,
-    "timeWeek": 286,
+    "timeWeek": 309,
     "timeMonth": 335,
     "timeYear": 397,
     "dailyMinutesDown": {
@@ -231,7 +233,7 @@
     "uptimeYear": "100.00%",
     "time": 349,
     "timeDay": 324,
-    "timeWeek": 349,
+    "timeWeek": 377,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {}
@@ -243,13 +245,13 @@
     "slug": "dont-tread-on-my-site-services",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "86.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.12%",
     "uptimeMonth": "99.09%",
     "uptimeYear": "99.84%",
     "time": 931,
-    "timeDay": 1799,
-    "timeWeek": 1079,
+    "timeDay": 762,
+    "timeWeek": 1167,
     "timeMonth": 1227,
     "timeYear": 931,
     "dailyMinutesDown": {
