@@ -68,7 +68,7 @@ status-website:
   theme: dark
   favicon: https://atmovantage.com/wp-content/uploads/2019/02/Color-logo-no-background-small.png
   introTitle: "**AtmoStatus** is the uptime monitor and status page for AtmoVantage."
-  introMessage: "Uptime is checked every 5 minutes, response time is updated daily. Notice 2/25/22 1445Z: Status page is returning false downtime reports, we are not experincing any downtime and are investigating this status page bug."
+  introMessage: "Uptime is checked every 5 minutes, response time is updated daily"
   navbar:
     - title: Support
       href: https://support.atmovantage.com/portal/en/home     
