@@ -27,9 +27,9 @@
     "slug": "atmo-live02-server",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 392,
     "timeDay": 192,
@@ -37,7 +37,6 @@
     "timeMonth": 220,
     "timeYear": 392,
     "dailyMinutesDown": {
-      "2022-02-25": 7,
       "2021-12-14": 31
     }
   },
@@ -71,18 +70,16 @@
     "slug": "atmo-live04-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 349,
     "timeDay": 202,
     "timeWeek": 322,
     "timeMonth": 321,
     "timeYear": 349,
-    "dailyMinutesDown": {
-      "2022-02-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AtmoLive05 Server",
@@ -91,18 +88,16 @@
     "slug": "atmo-live05-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
     "timeDay": 234,
     "timeWeek": 248,
     "timeMonth": 247,
     "timeYear": 330,
-    "dailyMinutesDown": {
-      "2022-02-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AtmoLive06 Server",
@@ -141,18 +136,16 @@
     "slug": "atmo-live07-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
     "timeDay": 218,
     "timeWeek": 237,
     "timeMonth": 263,
     "timeYear": 275,
-    "dailyMinutesDown": {
-      "2022-02-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AtmoBunker01 Server",
@@ -160,18 +153,17 @@
     "icon": "https://atmovantage.com/wp-content/uploads/2022/01/bunker.png",
     "slug": "atmo-bunker01-server",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 2227,
     "timeDay": 798,
     "timeWeek": 1026,
     "timeMonth": 2227,
     "timeYear": 2227,
     "dailyMinutesDown": {
-      "2022-02-25": 6,
       "2022-02-15": 18
     }
   },
@@ -182,18 +174,16 @@
     "slug": "atmo-vantage-homepage",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2593,
     "timeDay": 1178,
     "timeWeek": 1760,
     "timeMonth": 1818,
     "timeYear": 2593,
-    "dailyMinutesDown": {
-      "2022-02-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AtmoVantage Support",
@@ -220,9 +210,9 @@
     "slug": "atmo-vantage-client-portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 394,
     "timeDay": 242,
@@ -230,7 +220,6 @@
     "timeMonth": 357,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2022-02-25": 6,
       "2022-01-02": 21
     }
   },
@@ -259,9 +248,9 @@
     "slug": "dont-tread-on-my-site-services",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "97.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.56%",
     "uptimeYear": "99.59%",
     "time": 953,
     "timeDay": 423,
@@ -269,7 +258,6 @@
     "timeMonth": 1297,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2022-02-25": 6,
       "2022-02-16": 671,
       "2022-02-14": 190,
       "2022-02-07": 174,
