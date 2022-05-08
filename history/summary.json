@@ -141,19 +141,19 @@
     "url": "$ATMOLIVE07",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live07-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 318,
-    "timeDay": 342,
-    "timeWeek": 291,
-    "timeMonth": 558,
+    "timeDay": 330,
+    "timeWeek": 294,
+    "timeMonth": 551,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2022-05-08": 1
+      "2022-05-08": 18
     }
   },
   {
@@ -179,9 +179,9 @@
     "url": "$ATMOBUNKER01",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/01/bunker.png",
     "slug": "atmo-bunker01-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "97.70%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.83%",
@@ -191,6 +191,7 @@
     "timeMonth": 1194,
     "timeYear": 1565,
     "dailyMinutesDown": {
+      "2022-05-08": 0,
       "2022-05-05": 232,
       "2022-02-15": 18
     }
