@@ -13,7 +13,7 @@ sites:
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive03 Server
     url: $ATMOLIVE03
-    maxResponseTime: 6000
+    maxResponseTime: 10000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive04 Server
     url: $ATMOLIVE04
