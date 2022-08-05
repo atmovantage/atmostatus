@@ -1,7 +1,7 @@
 url: $DONT_TREAD_ON_MY_SITE
-status: degraded
+status: up
 code: 200
-responseTime: 6384
-lastUpdated: 2022-08-05T01:15:30.837Z
+responseTime: 575
+lastUpdated: 2022-08-05T03:22:14.312Z
 startTime: Thu Aug 26 2021 20:21:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
