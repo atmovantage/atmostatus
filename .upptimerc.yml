@@ -39,12 +39,6 @@ sites:
     port: 80
     maxResponseTime: 12000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
-  - name: AtmoLive07 Server
-    url: $ATMOLIVE07
-    check: "tcp-ping"
-    port: 80
-    maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive08 Server
     url: $ATMOLIVE08
     check: "tcp-ping"
