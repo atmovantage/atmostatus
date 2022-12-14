@@ -226,19 +226,19 @@
     "url": "https://support.atmovantage.com/portal/en/home",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-support",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 472,
-    "timeDay": 352,
-    "timeWeek": 449,
-    "timeMonth": 581,
+    "timeDay": 356,
+    "timeWeek": 438,
+    "timeMonth": 574,
     "timeYear": 462,
     "dailyMinutesDown": {
-      "2022-12-14": 1
+      "2022-12-14": 16
     }
   },
   {
