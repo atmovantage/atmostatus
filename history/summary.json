@@ -73,9 +73,9 @@
     "url": "$ATMOLIVE04",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live04-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -85,6 +85,7 @@
     "timeMonth": 32,
     "timeYear": 129,
     "dailyMinutesDown": {
+      "2023-04-13": 0,
       "2022-06-21": 54
     }
   },
