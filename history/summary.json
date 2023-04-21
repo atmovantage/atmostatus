@@ -143,18 +143,18 @@
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "n-ycloud01-server",
     "status": "down",
-    "uptime": "4.68%",
-    "uptimeDay": "4.68%",
-    "uptimeWeek": "4.68%",
-    "uptimeMonth": "4.68%",
-    "uptimeYear": "4.68%",
+    "uptime": "1.66%",
+    "uptimeDay": "1.66%",
+    "uptimeWeek": "1.66%",
+    "uptimeMonth": "1.66%",
+    "uptimeYear": "1.66%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-21": 0
+      "2023-04-21": 1
     }
   },
   {
