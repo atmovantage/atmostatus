@@ -9,8 +9,6 @@ sites:
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive02 Server
     url: $ATMOLIVE02
-    check: "tcp-ping"
-    port: 80
     maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive03 Server
@@ -21,20 +19,14 @@ sites:
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive05 Server
     url: $ATMOLIVE05
-    check: "tcp-ping"
-    port: 80
     maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive06 Server
     url: $ATMOLIVE06
-    check: "tcp-ping"
-    port: 80
     maxResponseTime: 12000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive07 Server
     url: $ATMOLIVE08
-    check: "tcp-ping"
-    port: 80
     maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: NYcloud01 Server
