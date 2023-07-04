@@ -11,12 +11,6 @@ sites:
     url: $ATMOLIVE02
     maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
-  - name: AtmoLive03 Server
-    url: $ATMOLIVE03
-    check: "tcp-ping"
-    port: 80
-    maxResponseTime: 10000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive05 Server
     url: $ATMOLIVE05
     maxResponseTime: 6000
