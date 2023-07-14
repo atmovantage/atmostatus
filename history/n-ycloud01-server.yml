@@ -1,7 +1,7 @@
 url: $NYCLOUD01
-status: up
+status: degraded
 code: 200
-responseTime: 210
-lastUpdated: 2023-07-14T14:14:29.808Z
+responseTime: 16337
+lastUpdated: 2023-07-14T15:50:42.787Z
 startTime: Fri Apr 21 2023 23:15:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
