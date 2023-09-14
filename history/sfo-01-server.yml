@@ -1,7 +1,7 @@
 url: $SFO01
-status: up
+status: degraded
 code: 200
-responseTime: 622
-lastUpdated: 2023-09-13T23:09:02.189Z
+responseTime: 24368
+lastUpdated: 2023-09-14T09:08:33.365Z
 startTime: 2023-06-20T13:52:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
