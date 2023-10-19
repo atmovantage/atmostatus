@@ -203,19 +203,19 @@
     "url": "https://checkout.atmovantage.com/portal/atmovantage/login",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-client-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.01%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 359,
-    "timeDay": 136,
-    "timeWeek": 325,
-    "timeMonth": 329,
+    "time": 360,
+    "timeDay": 273,
+    "timeWeek": 336,
+    "timeMonth": 331,
     "timeYear": 357,
     "dailyMinutesDown": {
-      "2023-10-19": 0
+      "2023-10-19": 14
     }
   },
   {
