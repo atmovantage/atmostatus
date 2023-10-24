@@ -241,19 +241,19 @@
     "url": "$DONT_TREAD_ON_MY_SITE",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/rattlesnake.png",
     "slug": "dont-tread-on-my-site-services",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 536,
-    "timeDay": 512,
-    "timeWeek": 505,
-    "timeMonth": 659,
+    "timeDay": 478,
+    "timeWeek": 498,
+    "timeMonth": 652,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2023-10-24": 0
+      "2023-10-24": 17
     }
   }
 ]
