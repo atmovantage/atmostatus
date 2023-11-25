@@ -136,9 +136,9 @@
     "url": "$ATMOBUNKER01",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/01/bunker.png",
     "slug": "atmo-bunker01-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -148,6 +148,7 @@
     "timeMonth": 832,
     "timeYear": 904,
     "dailyMinutesDown": {
+      "2023-11-25": 0,
       "2023-09-10": 26,
       "2023-06-20": 30,
       "2023-03-16": 39
