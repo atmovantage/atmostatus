@@ -219,19 +219,19 @@
     "url": "https://booking.atmovantage.com/#/customer/schedule",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-appointment-booking",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 312,
-    "timeWeek": 322,
-    "timeMonth": 436,
+    "timeDay": 309,
+    "timeWeek": 320,
+    "timeMonth": 432,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2023-11-26": 0
+      "2023-11-26": 18
     }
   },
   {
