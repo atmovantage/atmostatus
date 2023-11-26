@@ -219,18 +219,20 @@
     "url": "https://booking.atmovantage.com/#/customer/schedule",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-appointment-booking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 448,
-    "timeWeek": 343,
-    "timeMonth": 444,
-    "timeYear": 472,
-    "dailyMinutesDown": {}
+    "timeDay": 312,
+    "timeWeek": 322,
+    "timeMonth": 436,
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2023-11-26": 0
+    }
   },
   {
     "name": "Dont Tread On My Site Services",
