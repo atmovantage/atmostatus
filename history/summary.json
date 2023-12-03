@@ -183,9 +183,9 @@
     "slug": "atmo-vantage-support",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.09%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 533,
     "timeDay": 818,
@@ -193,7 +193,6 @@
     "timeMonth": 490,
     "timeYear": 533,
     "dailyMinutesDown": {
-      "2023-12-03": 13,
       "2023-01-05": 19,
       "2022-12-14": 16
     }
@@ -203,19 +202,19 @@
     "url": "https://checkout.atmovantage.com/portal/atmovantage/login",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-client-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 246,
-    "timeWeek": 316,
-    "timeMonth": 366,
-    "timeYear": 366,
+    "time": 370,
+    "timeDay": 803,
+    "timeWeek": 494,
+    "timeMonth": 414,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-12-03": 0
+      "2023-12-03": 10
     }
   },
   {
