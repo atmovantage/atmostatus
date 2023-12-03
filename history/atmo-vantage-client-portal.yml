@@ -1,7 +1,7 @@
 url: https://checkout.atmovantage.com/portal/atmovantage/login
-status: up
-code: 200
-responseTime: 268
-lastUpdated: 2023-12-02T23:09:18.896Z
+status: down
+code: 502
+responseTime: 224
+lastUpdated: 2023-12-03T03:23:16.493Z
 startTime: 2021-08-09T14:00:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
