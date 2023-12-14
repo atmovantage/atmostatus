@@ -7,10 +7,6 @@ sites:
     url: $ATMOLIVE01
     maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
-  - name: AtmoLive05 Server
-    url: $ATMOLIVE05
-    maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoLive06 Server
     url: $ATMOLIVE06
     maxResponseTime: 12000
