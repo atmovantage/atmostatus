@@ -100,18 +100,20 @@
     "url": "$SFO01",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "sfo-01-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 332,
-    "timeWeek": 331,
-    "timeMonth": 399,
-    "timeYear": 679,
-    "dailyMinutesDown": {}
+    "time": 676,
+    "timeDay": 256,
+    "timeWeek": 306,
+    "timeMonth": 389,
+    "timeYear": 676,
+    "dailyMinutesDown": {
+      "2023-12-15": 0
+    }
   },
   {
     "name": "AtmoBunker01 Server",
