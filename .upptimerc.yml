@@ -23,10 +23,6 @@ sites:
     url: $NYCLOUD01
     maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
-  - name: SFO01 Server
-    url: $SFO01
-    maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png
   - name: AtmoBunker01 Server
     url: $ATMOBUNKER01
     maxResponseTime: 6000
