@@ -147,9 +147,9 @@
     "url": "https://support.atmovantage.com/portal/en/home",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -158,7 +158,9 @@
     "timeWeek": 434,
     "timeMonth": 441,
     "timeYear": 497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-08": 0
+    }
   },
   {
     "name": "AtmoVantage Client Portal",
