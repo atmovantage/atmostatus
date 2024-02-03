@@ -1,7 +1,7 @@
 url: $DONT_TREAD_ON_MY_SITE
-status: down
-code: 403
-responseTime: 465
-lastUpdated: 2024-02-03T13:38:01.335Z
+status: up
+code: 200
+responseTime: 481
+lastUpdated: 2024-02-03T13:47:56.817Z
 startTime: 2021-08-26T20:21:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
