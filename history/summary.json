@@ -8,7 +8,7 @@
     "uptime": "88.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.69%",
+    "uptimeMonth": "65.75%",
     "uptimeYear": "71.54%",
     "time": 135,
     "timeDay": 97,
@@ -289,9 +289,9 @@
     "url": "https://booking.atmovantage.com/#/customer/schedule",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-appointment-booking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -301,6 +301,7 @@
     "timeMonth": 352,
     "timeYear": 458,
     "dailyMinutesDown": {
+      "2024-02-03": 0,
       "2023-12-03": 82,
       "2023-11-26": 18
     }
@@ -313,12 +314,12 @@
     "status": "up",
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.88%",
+    "uptimeWeek": "99.33%",
     "uptimeMonth": "99.74%",
     "uptimeYear": "99.98%",
     "time": 514,
     "timeDay": 468,
-    "timeWeek": 483,
+    "timeWeek": 484,
     "timeMonth": 485,
     "timeYear": 502,
     "dailyMinutesDown": {
