@@ -1,7 +1,7 @@
 url: https://atmovantage.com
-status: degraded
-code: 521
-responseTime: 15741
-lastUpdated: 2024-02-20T12:17:20.436Z
+status: up
+code: 200
+responseTime: 167
+lastUpdated: 2024-02-20T12:40:56.811Z
 startTime: 2021-08-09T13:44:50.000Z
 generator: Upptime <https://github.com/upptime/upptime>
