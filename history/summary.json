@@ -244,8 +244,7 @@
       "2024-02-20": 24,
       "2024-02-06": 16,
       "2024-01-18": 67,
-      "2023-09-21": 69,
-      "2023-02-28": 27
+      "2023-09-21": 69
     }
   },
   {
@@ -316,16 +315,17 @@
     "slug": "dont-tread-on-my-site-services",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "99.85%",
+    "uptimeDay": "95.46%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "99.84%",
     "time": 504,
     "timeDay": 548,
     "timeWeek": 510,
     "timeMonth": 503,
     "timeYear": 504,
     "dailyMinutesDown": {
+      "2024-02-28": 43,
       "2024-02-27": 22,
       "2024-02-26": 24,
       "2024-02-25": 18,
