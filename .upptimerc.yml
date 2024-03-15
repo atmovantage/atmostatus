@@ -43,10 +43,6 @@ sites:
     url: https://booking.atmovantage.com/#/customer/schedule
     maxResponseTime: 6000
     icon: https://atmovantage.com/wp-content/uploads/2022/02/favicon.png
-  - name: Dont Tread On My Site Services
-    url: $DONT_TREAD_ON_MY_SITE
-    maxResponseTime: 6000
-    icon: https://atmovantage.com/wp-content/uploads/2021/08/rattlesnake.png
     
     
 
