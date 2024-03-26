@@ -272,9 +272,9 @@
     "url": "https://checkout.atmovantage.com/portal/atmovantage/login",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-client-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -283,7 +283,9 @@
     "timeWeek": 417,
     "timeMonth": 352,
     "timeYear": 372,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   },
   {
     "name": "AtmoVantage Appointment Booking",
