@@ -1,7 +1,7 @@
 url: https://booking.atmovantage.com/#/customer/schedule
-status: up
+status: degraded
 code: 200
-responseTime: 411
-lastUpdated: 2024-08-26T23:11:53.524Z
+responseTime: 23192
+lastUpdated: 2024-08-27T20:34:06.179Z
 startTime: 2022-02-08T16:29:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
