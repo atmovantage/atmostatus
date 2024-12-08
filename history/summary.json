@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "89.93%",
+    "uptimeYear": "90.06%",
     "time": 200,
     "timeDay": 400,
     "timeWeek": 230,
@@ -207,18 +207,20 @@
     "url": "https://checkout.atmovantage.com/portal/atmovantage/login",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-client-portal",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 289,
-    "timeWeek": 320,
-    "timeMonth": 368,
-    "timeYear": 385,
-    "dailyMinutesDown": {}
+    "time": 401,
+    "timeDay": 3686,
+    "timeWeek": 1166,
+    "timeMonth": 584,
+    "timeYear": 403,
+    "dailyMinutesDown": {
+      "2024-12-08": 0
+    }
   },
   {
     "name": "AtmoVantage Appointment Booking",
