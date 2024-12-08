@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "90.06%",
+    "uptimeYear": "90.07%",
     "time": 200,
     "timeDay": 400,
     "timeWeek": 230,
@@ -207,19 +207,19 @@
     "url": "https://checkout.atmovantage.com/portal/atmovantage/login",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-client-portal",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 401,
-    "timeDay": 3686,
-    "timeWeek": 1166,
-    "timeMonth": 584,
+    "timeDay": 2581,
+    "timeWeek": 1077,
+    "timeMonth": 578,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2024-12-08": 0
+      "2024-12-08": 28
     }
   },
   {
