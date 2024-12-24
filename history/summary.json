@@ -5,15 +5,15 @@
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live01-server",
     "status": "up",
-    "uptime": "91.55%",
+    "uptime": "91.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.04%",
-    "time": 200,
-    "timeDay": 383,
-    "timeWeek": 292,
-    "timeMonth": 230,
+    "uptimeYear": "94.31%",
+    "time": 201,
+    "timeDay": 323,
+    "timeWeek": 326,
+    "timeMonth": 235,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2024-07-26": 30,
@@ -36,8 +36,7 @@
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-26": 1440
     }
   },
   {
@@ -52,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 241,
-    "timeDay": 382,
-    "timeWeek": 333,
-    "timeMonth": 313,
-    "timeYear": 258,
+    "timeDay": 397,
+    "timeWeek": 368,
+    "timeMonth": 321,
+    "timeYear": 259,
     "dailyMinutesDown": {
       "2024-08-13": 72
     }
@@ -72,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 397,
-    "timeWeek": 294,
-    "timeMonth": 223,
-    "timeYear": 189,
+    "timeDay": 383,
+    "timeWeek": 340,
+    "timeMonth": 231,
+    "timeYear": 190,
     "dailyMinutesDown": {
       "2024-07-30": 30
     }
@@ -92,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 190,
-    "timeDay": 347,
-    "timeWeek": 290,
-    "timeMonth": 236,
-    "timeYear": 191,
+    "timeDay": 348,
+    "timeWeek": 330,
+    "timeMonth": 241,
+    "timeYear": 192,
     "dailyMinutesDown": {
       "2024-10-23": 34
     }
@@ -112,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 221,
-    "timeWeek": 197,
-    "timeMonth": 961,
+    "timeDay": 208,
+    "timeWeek": 203,
+    "timeMonth": 963,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2024-05-15": 14
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 786,
-    "timeDay": 870,
-    "timeWeek": 810,
-    "timeMonth": 739,
-    "timeYear": 771,
+    "time": 787,
+    "timeDay": 1044,
+    "timeWeek": 853,
+    "timeMonth": 754,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2024-11-12": 20,
       "2024-03-15": 377,
@@ -153,10 +152,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 488,
-    "timeDay": 471,
-    "timeWeek": 360,
-    "timeMonth": 297,
+    "time": 485,
+    "timeDay": 421,
+    "timeWeek": 401,
+    "timeMonth": 304,
     "timeYear": 417,
     "dailyMinutesDown": {
       "2024-09-19": 25,
@@ -177,9 +176,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 513,
-    "timeDay": 293,
-    "timeWeek": 385,
-    "timeMonth": 608,
+    "timeDay": 382,
+    "timeWeek": 349,
+    "timeMonth": 606,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2024-11-25": 21,
@@ -198,10 +197,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
-    "time": 401,
-    "timeDay": 382,
-    "timeWeek": 334,
-    "timeMonth": 559,
+    "time": 400,
+    "timeDay": 293,
+    "timeWeek": 310,
+    "timeMonth": 556,
     "timeYear": 403,
     "dailyMinutesDown": {
       "2024-12-08": 28
@@ -218,10 +217,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 547,
-    "timeDay": 317,
-    "timeWeek": 452,
-    "timeMonth": 470,
+    "time": 545,
+    "timeDay": 494,
+    "timeWeek": 448,
+    "timeMonth": 471,
     "timeYear": 547,
     "dailyMinutesDown": {
       "2024-11-25": 20,
