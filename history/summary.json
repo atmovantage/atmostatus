@@ -151,10 +151,10 @@
     "url": "https://support.atmovantage.com/portal/en/home",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 511,
@@ -163,6 +163,7 @@
     "timeMonth": 449,
     "timeYear": 521,
     "dailyMinutesDown": {
+      "2025-03-21": 1,
       "2024-11-25": 21,
       "2024-07-02": 25
     }
@@ -172,9 +173,9 @@
     "url": "https://checkout.atmovantage.com/portal/atmovantage/login",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-client-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -184,6 +185,7 @@
     "timeMonth": 413,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2025-03-21": 0,
       "2024-12-08": 28
     }
   },
