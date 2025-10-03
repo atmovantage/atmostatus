@@ -127,18 +127,20 @@
     "url": "$NYCLOUD01",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "n-ycloud01-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 276,
-    "timeDay": 185,
-    "timeWeek": 223,
-    "timeMonth": 185,
-    "timeYear": 315,
-    "dailyMinutesDown": {}
+    "time": 277,
+    "timeDay": 479,
+    "timeWeek": 292,
+    "timeMonth": 204,
+    "timeYear": 316,
+    "dailyMinutesDown": {
+      "2025-10-03": 0
+    }
   },
   {
     "name": "AtmoBunker01 Server",
