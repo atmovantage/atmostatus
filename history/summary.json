@@ -187,10 +187,10 @@
     "url": "https://support.atmovantage.com/portal/en/home",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-support",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 512,
@@ -199,6 +199,7 @@
     "timeMonth": 468,
     "timeYear": 475,
     "dailyMinutesDown": {
+      "2025-10-06": 1,
       "2025-03-28": 29,
       "2024-11-25": 21
     }
@@ -208,10 +209,10 @@
     "url": "https://checkout.atmovantage.com/portal/atmovantage/login",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-client-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 442,
@@ -220,6 +221,7 @@
     "timeMonth": 436,
     "timeYear": 458,
     "dailyMinutesDown": {
+      "2025-10-06": 1,
       "2024-12-08": 28
     }
   },
@@ -228,9 +230,9 @@
     "url": "https://booking.atmovantage.com/#/customer/schedule",
     "icon": "https://atmovantage.com/wp-content/uploads/2022/02/favicon.png",
     "slug": "atmo-vantage-appointment-booking",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
@@ -240,6 +242,7 @@
     "timeMonth": 659,
     "timeYear": 526,
     "dailyMinutesDown": {
+      "2025-10-06": 0,
       "2025-09-19": 22,
       "2025-04-07": 21,
       "2024-11-25": 20
