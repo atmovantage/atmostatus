@@ -1,7 +1,7 @@
 url: $ATMOBUNKER01
-status: down
-code: 500
-responseTime: 123
-lastUpdated: 2025-11-18T13:26:53.825Z
+status: up
+code: 200
+responseTime: 1126
+lastUpdated: 2025-11-18T14:46:28.046Z
 startTime: 2022-01-26T19:48:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
