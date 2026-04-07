@@ -1,7 +1,7 @@
 url: $ATMOLIVE06
-status: up
-code: 200
-responseTime: 143
-lastUpdated: 2026-04-07T18:11:28.143Z
+status: down
+code: 415
+responseTime: 283
+lastUpdated: 2026-04-07T20:06:39.907Z
 startTime: 2021-10-15T00:45:54.000Z
 generator: Upptime <https://github.com/upptime/upptime>
