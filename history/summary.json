@@ -6,17 +6,16 @@
     "slug": "atmo-live01-server",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "93.37%",
     "uptimeYear": "98.91%",
     "time": 243,
     "timeDay": 208,
-    "timeWeek": 229,
+    "timeWeek": 235,
     "timeMonth": 235,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-04-26": 7,
       "2026-04-25": 80,
       "2026-04-24": 67,
       "2026-04-23": 116,
@@ -76,7 +75,8 @@
       "2026-01-25": 133,
       "2026-01-24": 8,
       "2026-01-19": 24,
-      "2026-01-18": 49
+      "2026-01-18": 49,
+      "2026-01-17": 16
     }
   },
   {
@@ -86,17 +86,16 @@
     "slug": "atmo-live07-server",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "98.91%",
     "time": 246,
     "timeDay": 226,
-    "timeWeek": 211,
+    "timeWeek": 220,
     "timeMonth": 238,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2026-04-26": 7,
       "2026-04-25": 80,
       "2026-04-24": 67,
       "2026-04-23": 117,
@@ -156,7 +155,8 @@
       "2026-01-24": 8,
       "2026-01-19": 24,
       "2026-01-18": 49,
-      "2026-01-17": 16
+      "2026-01-17": 16,
+      "2026-01-16": 18
     }
   },
   {
@@ -166,17 +166,16 @@
     "slug": "atmo-live08-server",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "94.70%",
-    "uptimeMonth": "93.35%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "98.90%",
     "time": 252,
     "timeDay": 324,
-    "timeWeek": 273,
+    "timeWeek": 280,
     "timeMonth": 275,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2026-04-26": 7,
       "2026-04-25": 80,
       "2026-04-24": 67,
       "2026-04-23": 117,
@@ -235,7 +234,8 @@
       "2026-01-25": 133,
       "2026-01-24": 8,
       "2026-01-19": 24,
-      "2026-01-18": 49
+      "2026-01-18": 49,
+      "2026-01-17": 16
     }
   },
   {
