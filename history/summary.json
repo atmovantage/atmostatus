@@ -4,16 +4,16 @@
     "url": "$ATMOLIVE01",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live01-server",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "98.68%",
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "88.26%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "98.64%",
     "time": 242,
-    "timeDay": 149,
-    "timeWeek": 175,
-    "timeMonth": 207,
+    "timeDay": 203,
+    "timeWeek": 188,
+    "timeMonth": 209,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2026-02-06": 119,
@@ -78,7 +78,7 @@
       "2026-05-24": 82,
       "2026-05-26": 433,
       "2026-06-01": 413,
-      "2026-06-02": 1
+      "2026-06-02": 169
     }
   },
   {
@@ -86,16 +86,16 @@
     "url": "$ATMOLIVE07",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live07-server",
-    "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "98.68%",
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "88.27%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "96.35%",
+    "uptimeYear": "98.64%",
     "time": 245,
-    "timeDay": 90,
-    "timeWeek": 171,
-    "timeMonth": 213,
+    "timeDay": 169,
+    "timeWeek": 186,
+    "timeMonth": 216,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2026-02-06": 119,
@@ -160,7 +160,7 @@
       "2026-05-24": 81,
       "2026-05-26": 433,
       "2026-06-01": 413,
-      "2026-06-02": 0
+      "2026-06-02": 169
     }
   },
   {
@@ -168,17 +168,17 @@
     "url": "$ATMOLIVE08",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live08-server",
-    "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "95.90%",
-    "uptimeMonth": "96.67%",
-    "uptimeYear": "98.67%",
-    "time": 257,
-    "timeDay": 122,
-    "timeWeek": 232,
-    "timeMonth": 294,
-    "timeYear": 261,
+    "status": "up",
+    "uptime": "99.53%",
+    "uptimeDay": "88.28%",
+    "uptimeWeek": "94.23%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "98.63%",
+    "time": 258,
+    "timeDay": 248,
+    "timeWeek": 258,
+    "timeMonth": 298,
+    "timeYear": 262,
     "dailyMinutesDown": {
       "2026-02-06": 98,
       "2026-02-07": 45,
@@ -242,7 +242,7 @@
       "2026-05-24": 81,
       "2026-05-26": 432,
       "2026-06-01": 413,
-      "2026-06-02": 0
+      "2026-06-02": 169
     }
   },
   {
