@@ -4,16 +4,16 @@
     "url": "$ATMOLIVE01",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live01-server",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "42.05%",
-    "uptimeWeek": "87.62%",
-    "uptimeMonth": "94.87%",
-    "uptimeYear": "98.54%",
+    "status": "up",
+    "uptime": "99.68%",
+    "uptimeDay": "28.06%",
+    "uptimeWeek": "83.37%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "98.46%",
     "time": 241,
-    "timeDay": 160,
-    "timeWeek": 163,
-    "timeMonth": 202,
+    "timeDay": 159,
+    "timeWeek": 177,
+    "timeMonth": 203,
     "timeYear": 244,
     "dailyMinutesDown": {
       "2026-02-07": 45,
@@ -78,7 +78,8 @@
       "2026-05-26": 433,
       "2026-06-01": 413,
       "2026-06-02": 210,
-      "2026-06-03": 625
+      "2026-06-03": 1036,
+      "2026-06-04": 17
     }
   },
   {
@@ -86,16 +87,16 @@
     "url": "$ATMOLIVE07",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live07-server",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "42.09%",
-    "uptimeWeek": "87.63%",
-    "uptimeMonth": "94.88%",
-    "uptimeYear": "98.54%",
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "28.09%",
+    "uptimeWeek": "83.38%",
+    "uptimeMonth": "93.90%",
+    "uptimeYear": "98.46%",
     "time": 245,
-    "timeDay": 162,
-    "timeWeek": 163,
-    "timeMonth": 208,
+    "timeDay": 167,
+    "timeWeek": 179,
+    "timeMonth": 211,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2026-02-07": 45,
@@ -160,7 +161,8 @@
       "2026-05-26": 433,
       "2026-06-01": 413,
       "2026-06-02": 210,
-      "2026-06-03": 624
+      "2026-06-03": 1036,
+      "2026-06-04": 17
     }
   },
   {
@@ -168,16 +170,16 @@
     "url": "$ATMOLIVE08",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live08-server",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "42.14%",
-    "uptimeWeek": "87.64%",
-    "uptimeMonth": "94.89%",
-    "uptimeYear": "98.53%",
+    "status": "up",
+    "uptime": "99.46%",
+    "uptimeDay": "28.12%",
+    "uptimeWeek": "83.39%",
+    "uptimeMonth": "93.91%",
+    "uptimeYear": "98.45%",
     "time": 257,
-    "timeDay": 210,
-    "timeWeek": 225,
-    "timeMonth": 262,
+    "timeDay": 234,
+    "timeWeek": 243,
+    "timeMonth": 268,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2026-02-07": 27,
@@ -242,7 +244,8 @@
       "2026-05-26": 432,
       "2026-06-01": 413,
       "2026-06-02": 210,
-      "2026-06-03": 624
+      "2026-06-03": 1036,
+      "2026-06-04": 17
     }
   },
   {
@@ -259,7 +262,7 @@
     "time": 277,
     "timeDay": 130,
     "timeWeek": 160,
-    "timeMonth": 184,
+    "timeMonth": 183,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2025-11-18": 174,
@@ -279,8 +282,8 @@
     "uptimeYear": "99.96%",
     "time": 838,
     "timeDay": 562,
-    "timeWeek": 665,
-    "timeMonth": 731,
+    "timeWeek": 676,
+    "timeMonth": 732,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2025-10-28": 29,
@@ -301,8 +304,8 @@
     "uptimeYear": "99.94%",
     "time": 441,
     "timeDay": 154,
-    "timeWeek": 234,
-    "timeMonth": 304,
+    "timeWeek": 236,
+    "timeMonth": 305,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2025-11-18": 155,
@@ -324,8 +327,8 @@
     "uptimeYear": "99.98%",
     "time": 469,
     "timeDay": 603,
-    "timeWeek": 564,
-    "timeMonth": 437,
+    "timeWeek": 598,
+    "timeMonth": 436,
     "timeYear": 476,
     "dailyMinutesDown": {
       "2025-10-06": 67,
@@ -345,8 +348,8 @@
     "uptimeYear": "99.99%",
     "time": 459,
     "timeDay": 701,
-    "timeWeek": 545,
-    "timeMonth": 511,
+    "timeWeek": 537,
+    "timeMonth": 517,
     "timeYear": 446,
     "dailyMinutesDown": {
       "2025-10-06": 67
@@ -365,8 +368,8 @@
     "uptimeYear": "99.96%",
     "time": 470,
     "timeDay": 625,
-    "timeWeek": 472,
-    "timeMonth": 424,
+    "timeWeek": 470,
+    "timeMonth": 423,
     "timeYear": 453,
     "dailyMinutesDown": {
       "2025-09-19": 22,
