@@ -6,14 +6,14 @@
     "slug": "atmo-live01-server",
     "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "95.05%",
+    "uptimeDay": "90.02%",
     "uptimeWeek": "76.11%",
-    "uptimeMonth": "81.11%",
-    "uptimeYear": "97.21%",
+    "uptimeMonth": "80.80%",
+    "uptimeYear": "97.18%",
     "time": 235,
-    "timeDay": 163,
+    "timeDay": 52,
     "timeWeek": 160,
-    "timeMonth": 179,
+    "timeMonth": 180,
     "timeYear": 238,
     "dailyMinutesDown": {
       "2026-03-26": 63,
@@ -79,7 +79,7 @@
       "2026-07-02": 410,
       "2026-07-03": 350,
       "2026-07-04": 81,
-      "2026-07-05": 1
+      "2026-07-05": 144
     }
   },
   {
@@ -88,15 +88,15 @@
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live07-server",
     "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "95.06%",
+    "uptime": "99.14%",
+    "uptimeDay": "90.03%",
     "uptimeWeek": "76.14%",
-    "uptimeMonth": "81.13%",
-    "uptimeYear": "97.26%",
+    "uptimeMonth": "80.82%",
+    "uptimeYear": "97.23%",
     "time": 241,
-    "timeDay": 185,
+    "timeDay": 106,
     "timeWeek": 270,
-    "timeMonth": 212,
+    "timeMonth": 213,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2026-03-25": 29,
@@ -163,7 +163,7 @@
       "2026-07-02": 410,
       "2026-07-03": 350,
       "2026-07-04": 81,
-      "2026-07-05": 0
+      "2026-07-05": 144
     }
   },
   {
@@ -172,15 +172,15 @@
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live08-server",
     "status": "down",
-    "uptime": "99.06%",
-    "uptimeDay": "95.08%",
+    "uptime": "99.05%",
+    "uptimeDay": "90.04%",
     "uptimeWeek": "76.17%",
-    "uptimeMonth": "81.18%",
-    "uptimeYear": "97.21%",
+    "uptimeMonth": "80.87%",
+    "uptimeYear": "97.19%",
     "time": 260,
-    "timeDay": 187,
+    "timeDay": 123,
     "timeWeek": 264,
-    "timeMonth": 278,
+    "timeMonth": 279,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2026-03-25": 29,
@@ -246,7 +246,7 @@
       "2026-07-02": 410,
       "2026-07-03": 349,
       "2026-07-04": 81,
-      "2026-07-05": 0
+      "2026-07-05": 143
     }
   },
   {
