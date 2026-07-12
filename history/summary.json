@@ -6,14 +6,14 @@
     "slug": "atmo-live01-server",
     "status": "down",
     "uptime": "99.42%",
-    "uptimeDay": "91.57%",
+    "uptimeDay": "86.88%",
     "uptimeWeek": "90.07%",
-    "uptimeMonth": "81.78%",
-    "uptimeYear": "97.14%",
+    "uptimeMonth": "81.71%",
+    "uptimeYear": "97.13%",
     "time": 235,
     "timeDay": 143,
     "timeWeek": 221,
-    "timeMonth": 184,
+    "timeMonth": 182,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2026-04-07": 55,
@@ -79,7 +79,7 @@
       "2026-07-09": 70,
       "2026-07-10": 412,
       "2026-07-11": 121,
-      "2026-07-12": 1
+      "2026-07-12": 68
     }
   },
   {
@@ -88,15 +88,15 @@
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live07-server",
     "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "91.59%",
+    "uptime": "99.12%",
+    "uptimeDay": "86.90%",
     "uptimeWeek": "90.08%",
-    "uptimeMonth": "81.80%",
-    "uptimeYear": "97.19%",
+    "uptimeMonth": "81.73%",
+    "uptimeYear": "97.17%",
     "time": 242,
     "timeDay": 153,
     "timeWeek": 225,
-    "timeMonth": 216,
+    "timeMonth": 215,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2026-04-07": 110,
@@ -162,7 +162,7 @@
       "2026-07-09": 70,
       "2026-07-10": 412,
       "2026-07-11": 121,
-      "2026-07-12": 0
+      "2026-07-12": 68
     }
   },
   {
@@ -172,14 +172,14 @@
     "slug": "atmo-live08-server",
     "status": "down",
     "uptime": "99.04%",
-    "uptimeDay": "91.61%",
+    "uptimeDay": "86.92%",
     "uptimeWeek": "90.10%",
-    "uptimeMonth": "81.82%",
-    "uptimeYear": "97.14%",
+    "uptimeMonth": "81.75%",
+    "uptimeYear": "97.12%",
     "time": 261,
     "timeDay": 244,
     "timeWeek": 278,
-    "timeMonth": 278,
+    "timeMonth": 277,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2026-04-07": 110,
@@ -244,7 +244,7 @@
       "2026-07-09": 69,
       "2026-07-10": 411,
       "2026-07-11": 120,
-      "2026-07-12": 0
+      "2026-07-12": 68
     }
   },
   {
