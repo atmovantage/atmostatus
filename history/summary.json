@@ -6,12 +6,12 @@
     "slug": "atmo-live01-server",
     "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "81.56%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "82.03%",
-    "uptimeYear": "97.11%",
+    "uptimeDay": "78.08%",
+    "uptimeWeek": "89.41%",
+    "uptimeMonth": "81.76%",
+    "uptimeYear": "97.09%",
     "time": 235,
-    "timeDay": 185,
+    "timeDay": 204,
     "timeWeek": 203,
     "timeMonth": 185,
     "timeYear": 237,
@@ -78,7 +78,7 @@
       "2026-07-10": 412,
       "2026-07-11": 121,
       "2026-07-12": 265,
-      "2026-07-13": 1
+      "2026-07-13": 121
     }
   },
   {
@@ -87,13 +87,13 @@
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live07-server",
     "status": "down",
-    "uptime": "99.12%",
-    "uptimeDay": "81.59%",
-    "uptimeWeek": "90.62%",
-    "uptimeMonth": "82.05%",
-    "uptimeYear": "97.16%",
+    "uptime": "99.11%",
+    "uptimeDay": "78.11%",
+    "uptimeWeek": "89.43%",
+    "uptimeMonth": "81.78%",
+    "uptimeYear": "97.13%",
     "time": 242,
-    "timeDay": 165,
+    "timeDay": 187,
     "timeWeek": 205,
     "timeMonth": 217,
     "timeYear": 246,
@@ -161,7 +161,7 @@
       "2026-07-10": 412,
       "2026-07-11": 121,
       "2026-07-12": 265,
-      "2026-07-13": 0
+      "2026-07-13": 121
     }
   },
   {
@@ -170,13 +170,13 @@
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live08-server",
     "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "81.63%",
-    "uptimeWeek": "90.64%",
-    "uptimeMonth": "82.07%",
-    "uptimeYear": "97.11%",
+    "uptime": "99.03%",
+    "uptimeDay": "78.14%",
+    "uptimeWeek": "89.45%",
+    "uptimeMonth": "81.80%",
+    "uptimeYear": "97.09%",
     "time": 262,
-    "timeDay": 251,
+    "timeDay": 274,
     "timeWeek": 268,
     "timeMonth": 277,
     "timeYear": 267,
@@ -243,7 +243,7 @@
       "2026-07-10": 411,
       "2026-07-11": 120,
       "2026-07-12": 265,
-      "2026-07-13": 0
+      "2026-07-13": 120
     }
   },
   {
@@ -260,7 +260,7 @@
     "time": 274,
     "timeDay": 179,
     "timeWeek": 171,
-    "timeMonth": 148,
+    "timeMonth": 147,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2025-11-18": 174,
@@ -281,7 +281,7 @@
     "time": 836,
     "timeDay": 662,
     "timeWeek": 814,
-    "timeMonth": 720,
+    "timeMonth": 724,
     "timeYear": 875,
     "dailyMinutesDown": {
       "2025-10-28": 29,
@@ -303,7 +303,7 @@
     "time": 438,
     "timeDay": 156,
     "timeWeek": 363,
-    "timeMonth": 289,
+    "timeMonth": 295,
     "timeYear": 433,
     "dailyMinutesDown": {
       "2025-11-18": 155,
@@ -326,7 +326,7 @@
     "time": 466,
     "timeDay": 489,
     "timeWeek": 332,
-    "timeMonth": 398,
+    "timeMonth": 395,
     "timeYear": 470,
     "dailyMinutesDown": {
       "2025-10-06": 67,
@@ -347,7 +347,7 @@
     "time": 468,
     "timeDay": 593,
     "timeWeek": 455,
-    "timeMonth": 524,
+    "timeMonth": 522,
     "timeYear": 458,
     "dailyMinutesDown": {
       "2025-10-06": 67
@@ -367,7 +367,7 @@
     "time": 463,
     "timeDay": 531,
     "timeWeek": 433,
-    "timeMonth": 433,
+    "timeMonth": 435,
     "timeYear": 448,
     "dailyMinutesDown": {
       "2025-09-19": 22,
