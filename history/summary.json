@@ -4,14 +4,14 @@
     "url": "$ATMOLIVE01",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live01-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "86.34%",
-    "uptimeWeek": "83.08%",
+    "uptimeDay": "76.76%",
+    "uptimeWeek": "81.71%",
     "uptimeMonth": "82.94%",
-    "uptimeYear": "97.01%",
+    "uptimeYear": "96.98%",
     "time": 235,
-    "timeDay": 242,
+    "timeDay": 228,
     "timeWeek": 184,
     "timeMonth": 185,
     "timeYear": 237,
@@ -80,7 +80,7 @@
       "2026-07-14": 65,
       "2026-07-15": 206,
       "2026-07-16": 141,
-      "2026-07-17": 56
+      "2026-07-17": 194
     }
   },
   {
@@ -88,16 +88,16 @@
     "url": "$ATMOLIVE07",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live07-server",
-    "status": "down",
-    "uptime": "99.09%",
-    "uptimeDay": "86.36%",
-    "uptimeWeek": "83.10%",
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "76.79%",
+    "uptimeWeek": "81.73%",
     "uptimeMonth": "82.96%",
-    "uptimeYear": "97.05%",
+    "uptimeYear": "97.02%",
     "time": 242,
-    "timeDay": 274,
-    "timeWeek": 192,
-    "timeMonth": 222,
+    "timeDay": 253,
+    "timeWeek": 191,
+    "timeMonth": 221,
     "timeYear": 245,
     "dailyMinutesDown": {
       "2026-04-10": 63,
@@ -165,7 +165,7 @@
       "2026-07-14": 65,
       "2026-07-15": 206,
       "2026-07-16": 140,
-      "2026-07-17": 56
+      "2026-07-17": 194
     }
   },
   {
@@ -173,16 +173,16 @@
     "url": "$ATMOLIVE08",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live08-server",
-    "status": "down",
+    "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "83.12%",
+    "uptimeDay": "76.82%",
+    "uptimeWeek": "81.75%",
     "uptimeMonth": "82.98%",
-    "uptimeYear": "97.00%",
+    "uptimeYear": "96.98%",
     "time": 262,
-    "timeDay": 297,
-    "timeWeek": 247,
-    "timeMonth": 266,
+    "timeDay": 344,
+    "timeWeek": 257,
+    "timeMonth": 268,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2026-04-10": 63,
@@ -249,7 +249,7 @@
       "2026-07-14": 64,
       "2026-07-15": 205,
       "2026-07-16": 140,
-      "2026-07-17": 56
+      "2026-07-17": 194
     }
   },
   {
