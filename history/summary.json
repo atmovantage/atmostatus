@@ -169,15 +169,15 @@
     "url": "$ATMOLIVE08",
     "icon": "https://atmovantage.com/wp-content/uploads/2021/08/cloud-network.png",
     "slug": "atmo-live08-server",
-    "status": "down",
-    "uptime": "99.04%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "96.99%",
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "96.91%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "96.98%",
     "time": 262,
-    "timeDay": 118,
-    "timeWeek": 165,
+    "timeDay": 164,
+    "timeWeek": 175,
     "timeMonth": 245,
     "timeYear": 269,
     "dailyMinutesDown": {
@@ -242,7 +242,7 @@
       "2026-07-25": 155,
       "2026-07-26": 128,
       "2026-07-27": 74,
-      "2026-08-26": 0
+      "2026-08-26": 44
     }
   },
   {
